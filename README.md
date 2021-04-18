@@ -141,7 +141,7 @@ input:focus{
 <body>
     <div class="container">
 <div id="myDIV" class="header">
-  <h1 style="margin:20px">Gaurav's Todo List</h1>
+  <h1 style="margin:20px">Todo List</h1>
   <input type="text" id="myInput" placeholder="Title...">
   <span onclick="newElement()" class="addBtn"><i class="fa fa-plus-square" aria-hidden="true"></i></button>
   </div></span>
